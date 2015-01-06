@@ -1,0 +1,1 @@
+In this first mini Project. we will creare a simple static resume website based on the moquet provided by our designer. we will be using HTML and CSS Languages Only. 
