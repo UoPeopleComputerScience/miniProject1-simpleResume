@@ -1010,5 +1010,9 @@ footer {
 }
 
 .header_image {
-    margin-left: 0px;
+    float:left;
+    margin-right:30px;
+    margin-bottom: 0px;
+    height: 60px;
+    width:60px;
 }
