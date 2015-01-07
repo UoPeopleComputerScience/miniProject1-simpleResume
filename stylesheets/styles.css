@@ -1008,3 +1008,7 @@ footer {
     width: auto;
   }
 }
+
+.header_image {
+    margin-left: 0px;
+}
